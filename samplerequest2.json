@@ -1,0 +1,12 @@
+[
+  { "name": "Ilene Hendrix",
+	"age": 44,
+	"address": "492 Kansas Place, Fivepointville, California, 951",
+   "phone": "+1 (923) 565-2000"
+  },
+  {"age": 54,
+  "name": "Shelia Mercer",
+   "address": "101 Homecrest Avenue, Rehrersburg, Iowa, 6787",
+   "phone": "+1 (886) 598-2286"
+  }
+]
